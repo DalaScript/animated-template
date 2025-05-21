@@ -35,7 +35,6 @@ A sleek and animated landing page template built with Tailwind CSS and AOS.js. T
 
 ### 📌 Features
 
- - ✅ Responsive navbar with mobile toggle functionality
  - ✅ Smooth scroll animations powered by AOS.js
  - ✅ Modular JavaScript for cleaner interactivity
 
