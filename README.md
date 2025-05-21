@@ -53,7 +53,7 @@ A sleek and animated landing page template built with Tailwind CSS and AOS.js. T
 
 ### 🔜 Next Project
 
- - Navigation Nation → [View Repository](https://dalascript.github.io/navigation-nation/)
+ - Navigation Nation → [View Repository](https://github.com/DalaScript/navigation-nation)
 
 ---
 
