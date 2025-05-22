@@ -64,11 +64,11 @@ A sleek and animated landing page template built with Tailwind CSS and AOS.js. T
 
 ### 🔙 Previous Project
 
- - Light & Dark Mode [Project 5/20] → [View Repository](https://github.com/DalaScript/light-dark-mode)
+ - Light & Dark Mode | *[Project 5/20]* → [View Repository](https://github.com/DalaScript/light-dark-mode)
 
 ### 🔜 Next Project
 
- - Navigation Nation [Project 7/20] → [View Repository](https://github.com/DalaScript/navigation-nation)
+ - Navigation Nation | *[Project 7/20]* → [View Repository](https://github.com/DalaScript/navigation-nation)
 
 ---
 
