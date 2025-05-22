@@ -15,6 +15,7 @@ A sleek and animated landing page template built with Tailwind CSS and AOS.js. T
 - [🧠 My process](#-my-process)
   - [🛠️ Built with](#️-built-with)
   - [🎓 What I learned](#-what-i-learned)
+  - [🔙 Previous Project](#-previous-project)
   - [🔜 Next Project](#-next-project)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
@@ -26,7 +27,7 @@ A sleek and animated landing page template built with Tailwind CSS and AOS.js. T
 
 ### 📸 Screenshot
 
-![screenshot of webpage](./assets/screenshot.jpg)
+![screenshot of the project's webpage](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
@@ -37,6 +38,8 @@ A sleek and animated landing page template built with Tailwind CSS and AOS.js. T
 
  - ✅ Smooth scroll animations powered by AOS.js
  - ✅ Modular JavaScript for cleaner interactivity
+
+---
 
 ## 🧠 My Process
 
@@ -51,9 +54,21 @@ A sleek and animated landing page template built with Tailwind CSS and AOS.js. T
 
  - How to implement and customize AOS animations
 
+  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
+  > rather than learning something entirely new.  
+  >  
+  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
+  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
+  >  
+  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
+
+### 🔙 Previous Project
+
+ - Light & Dark Mode [Project 5/20] → [View Repository](https://github.com/DalaScript/light-dark-mode)
+
 ### 🔜 Next Project
 
- - Navigation Nation → [View Repository](https://github.com/DalaScript/navigation-nation)
+ - Navigation Nation [Project 7/20] → [View Repository](https://github.com/DalaScript/navigation-nation)
 
 ---
 
